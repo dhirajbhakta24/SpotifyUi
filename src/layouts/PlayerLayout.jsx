@@ -17,7 +17,7 @@ export const PlayerLayout =()=>{
         </div>
 
         {/*Player */}
-        <div className="absolute bottom-0 left-0 w-screen h-[80px] bg-gray-900">
+        <div className="absolute bottom-0 left-0 w-screen h-[100px] bg-gray-900">
 
         </div>
 
